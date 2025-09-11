@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Full Stack Developer</h1>
-<h3 align="center">A passionate frontend and backend developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Software Engineer</h1>
+<h3 align="center">Aspiring ServiceNow developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -8,7 +8,9 @@
 
 <h3 align="left">About Me</h3>
 <p align="left">
-I'm a <b>Full-Stack developer</b> with two years of experience. I'm passionate about building user-friendly and visually appealing websites and web applications. I have a strong understanding of web standards and best practices, and I'm always eager to learn new technologies. within development I have also experience in deployment especially on AWS EC2 instance Ubuntu etc. and I also work as a <b>Web Scraper</b> and <b>Web automation</b> using Python, Selenium, beautifulSoup and pandas.
+Aspiring ServiceNow Developer with strong background in Python, JavaScript, and full-stack web
+development. Experienced in automation, APIs, and data integration, with a passion for building scalable
+solutions on enterprise platforms.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
