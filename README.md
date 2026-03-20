@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Software Engineer</h1>
-<h3 align="center">Aspiring ServiceNow developer</h3>
+<h3 align="center">Full Stack AI Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad-azhar-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-azhar9920" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammadazharshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-azhar9920" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">About Me</h3>
 <p align="left">
-Aspiring ServiceNow Developer with strong background in Python, JavaScript, and full-stack web
+Full Stack AI Engineer with strong background in Python, JavaScript, and full-stack web
 development. Experienced in automation, APIs, and data integration, with a passion for building scalable
 solutions on enterprise platforms.
 </p>
